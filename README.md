@@ -1,6 +1,7 @@
 # Academic_FDA
 
-Project On TimeSeries
+Project 2 On TimeSeries
+
 As an organization, Word aims to develop a mobile application leveraging
 accelerometer data to detect instances of heavy drinking. The primary objective is to
 create a user-friendly and reliable tool that can accurately identify patterns associated
@@ -12,3 +13,13 @@ is handled with utmost confidentiality. The ultimate goal is to provide individu
 valuable insights into their drinking habits, promote responsible alcohol consumption,
 and potentially facilitate early intervention measures for those at risk of alcohol-related
 harm
+
+Project 3 (NLP)
+
+In the rapidly evolving field of generative artificial intelligence (AI), identifying key
+research themes and understanding their interconnections is crucial for academics,
+practitioners, and policy makers. This project aims to utilize the comprehensive Web of
+Science (WoS) database to search for publications related to generative AI. Through an
+analytical approach focused on keyword co-occurrence networks derived from author
+keywords, we will map the intellectual structure and identify the core themes and trends
+in generative AI research.
